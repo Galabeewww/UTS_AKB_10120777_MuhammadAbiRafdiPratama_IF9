@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_AKB_10120777_MuhammadAbiRafdiPratama_IF9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="me">Hello, everyone! My name is Muhammad Abi Rafdi Pratama. I am delighted to have the opportunity to introduce myself to you. I am a motivated and enthusiastic individual with a passion for continuous learning and personal growth.</string>
+    <string name="contact">Contact Me</string>
+</resources>
